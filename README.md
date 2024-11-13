@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# App lista participantes 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![1731460712336](image/README/1731460712336.png)![1731460733981](image/README/1731460733981.png)![1731460740259](image/README/1731460740259.png)This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
@@ -48,4 +48,5 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
 # lista-participantes-evento
